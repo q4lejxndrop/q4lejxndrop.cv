@@ -1,2 +1,2 @@
 # q4lejxndrop.cv
-CV
+**CV**
