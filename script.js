@@ -4,7 +4,7 @@ const btnDarkMode= document.getElementById('btn-dark-mode');
 const iconDark= document.getElementById('icon-dark');
 const iconLight= document.getElementById('icon-light');
 
-let stateToggleDarkMode = false;
+let stateToggleDarkMode = true;
 btnDarkMode.addEventListener('click', () => {
 if(stateToggleDarkMode){
     document.body.classList.add('dark-mode');
